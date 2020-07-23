@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACOA,AAAA,CAAC,CACD,CAAC,AAAA,QAAQ,CACT,CAAC,AAAA,OAAO,AAAC,CACP,UAAU,CAAE,UAAU,CACtB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX",
+    "sources": [
+        "../../fylo-data-storage-component-master/fylo-data-storage-component-master/scss/main.scss",
+        "../../fylo-data-storage-component-master/fylo-data-storage-component-master/scss/_config.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

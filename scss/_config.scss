@@ -1,0 +1,14 @@
+$primary-color: gradient hsl(6, 100%, 80%) to hsl(335, 100%, 65%);
+
+$neutral-one: hsl(243, 100%, 93%);
+$neutral-two: hsl(229, 7%, 55%);
+$neutral-three: hsl(228, 56%, 26%);
+$neutral-four: hsl(229, 57%, 11%);
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
